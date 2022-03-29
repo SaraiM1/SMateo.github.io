@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>smateo site</title>
+</head>
+<body>
+
+<h1>Illustrator and Indesign Art!</h1>
+<p>This glitch art is a collection bringing awareness about food waste in America.</p>
+
+<img src="images/insta.jpg" alt="insta" style="width:500px;height:600px;">
+
+<img src="images/flyer.png" alt="flyer" style="width:500px;height:600px;">
+
+
+</body>
+</html>

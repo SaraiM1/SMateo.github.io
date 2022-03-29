@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>smateo site</title>
+</head>
+<body>
+
+<h1>Glitch Art!</h1>
+<p>My name is Sarai Mateo, welcome to my portfolio.</p>
+
+<img src="images/food1.png" alt="food1" style="width:500px;height:300px;">
+
+<img src="images/food2.png" alt="food2" style="width:600px;height:300px;">
+
+<img src="images/food3.png" alt="food3" style="width:500px;height:300px;">
+
+
+</body>
+</html>
